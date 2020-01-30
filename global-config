@@ -102,7 +102,7 @@
 
 # Enable this to fetch scripts from given url.
 :global ScriptUpdatesFetch true;
-:global ScriptUpdatesBaseUrl "https://github.com/kiLL0-TS/routeros-scripts/plain/";
+:global ScriptUpdatesBaseUrl "https://github.com/kiLL0-TS/tsn-mikrotik/blob/master/plain/";
 #:global ScriptUpdatesBaseUrl "https://raw.githubusercontent.com/kiLL0-TS/routeros-scripts/master/master/";
 #:global ScriptUpdatesBaseUrl "https://gitlab.com/eworm-de/routeros-scripts/raw/master/";
 :global ScriptUpdatesUrlSuffix "";
